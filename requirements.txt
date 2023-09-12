@@ -2,3 +2,4 @@ flask
 flask_restful
 flask_sqlalchemy
 psycopg2
+gunicorn==20.1.0
